@@ -19,6 +19,6 @@ net-im/qtox 1.14.1 1.15.0: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/tox-prpl 0.5.1: Tox plugin for Purple/Pidgin
 net-libs/tox 0.2.2: Encrypted P2P, messaging, and audio/video calling platform
 net-p2p/silentarmy 5: Free open source Zcash miner for Linux with multi-GPU and Stratum support
-sci-libs/geographiclib 1.44 1.49: Small set of C++ classes for performing various geographic and geodesic conversions
+sci-geosciences/geographiclib 1.50: C++ library for converting geographic coordinate systems.
 sys-devel/icecream 1.0.1: icecc is a program for distributed compiling of C(++) code across several machines; based on distcc
 x11-apps/jstest-gtk 0.1.0-r1 9999: A joystick testing and configuration tool for Linux
