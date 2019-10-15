@@ -14,7 +14,7 @@ media-libs/embree 2.16.4 9999: Embree ray tracing kernels by intel
 media-libs/fbx-sdk 2018.1.1: Platform and API toolkit to transfer existing content into the FBX format.
 media-libs/luxcorerender 2.0: LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
 media-libs/luxrays 3010.3.1m-r1 3542.1.6r 9999: Library to accelerate the ray intersection process by using GPUs
-media-libs/vlc-qt 1.1.0 9999: VLC-Qt is a free library used to connect Qt and libVLC libraries
+media-libs/vlc-qt 1.1.1 9999: VLC-Qt is a free library used to connect Qt and libVLC libraries
 net-im/qtox 1.14.1 1.15.0: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/tox-prpl 0.5.1: Tox plugin for Purple/Pidgin
 net-libs/tox 0.2.2: Encrypted P2P, messaging, and audio/video calling platform
