@@ -4,6 +4,7 @@ app-benchmarks/luxmark-scenes 3.1_beta3: Scenes pack for luxmark.
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
 app-misc/bosco 9999: Orienteering software
 dev-libs/c-blosc 1.14.4: A blocking, shuffling and loss-less compression library that can be faster than .
+dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
 dev-libs/ocl-icd 2.2.12: Alternative to vendor specific OpenCL ICD loaders
 dev-libs/pocl 1.1 1.2 9999: PortableCL: opensource implementation of the OpenCL standard
 dev-python/sireader 1.1.1: A Python module to communicate with Sportident main stations
@@ -12,8 +13,10 @@ dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting 
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/embree 2.16.4 9999: Embree ray tracing kernels by intel
 media-libs/fbx-sdk 2018.1.1: Platform and API toolkit to transfer existing content into the FBX format.
+media-libs/glfw 3.3: The Portable OpenGL FrameWork
 media-libs/luxcorerender 2.0: LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
 media-libs/luxrays 3010.3.1m-r1 3542.1.6r 9999: Library to accelerate the ray intersection process by using GPUs
+media-libs/openvr 1.7.15: API and runtime for accessing VR hardware from multiple vendors
 media-libs/vlc-qt 1.1.1 9999: VLC-Qt is a free library used to connect Qt and libVLC libraries
 net-im/qtox 1.14.1 1.15.0: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/tox-prpl 0.5.1: Tox plugin for Purple/Pidgin
