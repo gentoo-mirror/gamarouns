@@ -1,0 +1,15 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+DESCRIPTION=LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
+EAPI=7
+HOMEPAGE=http://www.luxcorerender.net
+IUSE=debug opencl cuda shared
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+REQUIRED_USE=debug? ( shared )
+SLOT=0
+SRC_URI=https://codeload.github.com/LuxCoreRender/LuxCore/tar.gz/luxcorerender_v2.4 -> luxcorerender-2.4.tar.gz
+_eclasses_=cmake-utils	77cd39e6009811bf97a59d91ffd5b54f	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	multilib	2477ebe553d3e4d2c606191fe6c33602	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=c0e7d6b2bb73a93ae656ddfb6947370d

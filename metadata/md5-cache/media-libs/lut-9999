@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=C++ 11 single required source file, that can be used to achieve color correction and color grading
+EAPI=7
+HOMEPAGE=https://github.com/ray-cast/lut
+KEYWORDS=~amd64 ~x86 ~arm ~arm64
+LICENSE=MIT
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=5cbce39190ba64760cd89337522f0edb

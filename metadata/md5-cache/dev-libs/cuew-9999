@@ -1,0 +1,11 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install prepare test unpack
+DESCRIPTION=This C++ project provides a portable binary archive to be used with boost::serialization.
+EAPI=7
+HOMEPAGE=https://archive.codeplex.com/?p=epa
+KEYWORDS=~amd64 ~x86 ~arm ~arm64
+LICENSE=Apache-2.0
+PROPERTIES=live
+SLOT=0
+_eclasses_=cmake-utils	77cd39e6009811bf97a59d91ffd5b54f	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	2477ebe553d3e4d2c606191fe6c33602	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=e42bafb006448c1fce58c1afb00cc7f6

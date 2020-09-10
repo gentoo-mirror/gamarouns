@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Free open source Zcash miner for Linux with multi-GPU and Stratum support
+EAPI=6
+HOMEPAGE=https://github.com/mbevand/silentarmy
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0/5
+SRC_URI=https://codeload.github.com/mbevand/silentarmy/tar.gz/v5 -> silentarmy-5.tar.gz
+_md5_=ead9676b0530c8cdb619f9cf5193038f
