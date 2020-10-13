@@ -4,6 +4,7 @@ app-benchmarks/luxmark-scenes 3.1_beta3 4.0_alpha0: Scenes pack for luxmark.
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
 app-misc/bosco 9999: Orienteering software
 dev-cpp/json 3.9.1: JSON for modern C++
+dev-cpp/simde 0.6.0: Implementations of SIMD instruction sets for systems which natively don't support them
 dev-libs/c-blosc 1.17.0: A blocking, shuffling and loss-less compression library that can be faster than 'memcpy()'.
 dev-libs/clew 0.10 9999: The OpenCL Extension Wrangler Library
 dev-libs/cuew 9999: This C++ project provides a portable binary archive to be used with boost::serialization.
