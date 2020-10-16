@@ -17,7 +17,7 @@ dev-python/spyder 3.2.7: Python IDE with matlab-like features
 dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting system
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/bcd 1.1: Bayesian Collaborative Denoiser for Monte Carlo Rendering
-media-libs/embree 2.16.4 2.16.4-r1 2.17.2 3.3.0 3.5.0 9999: Embree ray tracing kernels by intel
+media-libs/embree 2.16.4 2.16.4-r1 2.17.2 3.3.0 3.5.0 3.12.0 9999: Embree ray tracing kernels by intel
 media-libs/fbx-sdk 2018.1.1: Platform and API toolkit to transfer existing content into the FBX format.
 media-libs/glfw 3.3: The Portable OpenGL FrameWork
 media-libs/lut 9999: C++ 11 single required source file, that can be used to achieve color correction and color grading
