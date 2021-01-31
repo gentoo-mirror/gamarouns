@@ -2,7 +2,6 @@ app-arch/lz4 1.8.1.2: Extremely Fast Compression algorithm
 app-benchmarks/luxmark 3.1-r3 3.1-r4 3.1-r5 4.0_alpha0 9999: A GPL OpenCL Benchmark.
 app-benchmarks/luxmark-scenes 3.1_beta3 4.0_alpha0: Scenes pack for luxmark.
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
-app-misc/bosco 9999: Orienteering software
 dev-cpp/json 3.9.1: JSON for modern C++
 dev-cpp/simde 0.6.0: Implementations of SIMD instruction sets for systems which natively don't support them
 dev-libs/c-blosc 1.17.0: A blocking, shuffling and loss-less compression library that can be faster than 'memcpy()'.
@@ -12,8 +11,6 @@ dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
 dev-libs/eos-portable-archive 5.1: This C++ project provides a portable binary archive to be used with boost::serialization.
 dev-libs/ocl-icd 2.2.12: Alternative to vendor specific OpenCL ICD loaders
 dev-libs/pocl 1.4 1.5 9999: PortableCL: opensource implementation of the OpenCL standard
-dev-python/sireader 1.1.1: A Python module to communicate with Sportident main stations
-dev-python/spyder 3.2.7: Python IDE with matlab-like features
 dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting system
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/bcd 1.1: Bayesian Collaborative Denoiser for Monte Carlo Rendering
@@ -31,7 +28,6 @@ net-im/qtox 1.14.1 1.15.0: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/tox-prpl 0.5.1: Tox plugin for Purple/Pidgin
 net-libs/tox 0.2.2: Encrypted P2P, messaging, and audio/video calling platform
 net-p2p/silentarmy 5: Free open source Zcash miner for Linux with multi-GPU and Stratum support
-sci-geosciences/geographiclib 1.50: C++ library for converting geographic coordinate systems.
 sys-devel/icecream 1.0.1: icecc is a program for distributed compiling of C(++) code across several machines; based on distcc
 sys-firmware/rpi-eeprom 9999: Scripts and pre-compiled binaries to update Raspberry Pi4 bootloader EEPROM
 x11-apps/jstest-gtk 0.1.0-r1 9999: A joystick testing and configuration tool for Linux
