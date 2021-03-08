@@ -1,8 +1,11 @@
 app-arch/lz4 1.8.1.2: Extremely Fast Compression algorithm
 app-benchmarks/luxmark 3.1 4.0_alpha1 9999: A GPL OpenCL Benchmark.
 app-benchmarks/luxmark-scenes 3.1_beta3 3.1 4.0_alpha0 4.0_alpha1: Scenes pack for luxmark.
+app-emulation/anbox 0_pre20201129 9999: Container-based approach to boot a full Android system
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
 dev-cpp/json 3.9.1: JSON for modern C++
+dev-cpp/properties-cpp 0_pre20180409 9999: A very simple convenience library for handling properties and signals in C++11
+dev-cpp/sdbus-cpp 0.8.3: High-level C++ D-Bus library for Linux
 dev-cpp/simde 0.6.0: Implementations of SIMD instruction sets for systems which natively don't support them
 dev-libs/c-blosc 1.17.0: A blocking, shuffling and loss-less compression library that can be faster than 'memcpy()'.
 dev-libs/clew 0.10 9999: The OpenCL Extension Wrangler Library
@@ -29,4 +32,6 @@ net-libs/tox 0.2.2: Encrypted P2P, messaging, and audio/video calling platform
 net-p2p/silentarmy 5: Free open source Zcash miner for Linux with multi-GPU and Stratum support
 sys-devel/icecream 1.0.1: icecc is a program for distributed compiling of C(++) code across several machines; based on distcc
 sys-firmware/rpi-eeprom 9999: Scripts and pre-compiled binaries to update Raspberry Pi4 bootloader EEPROM
+sys-kernel/anbox-modules 9999: Kernel modules necessary to run the Anbox Android container runtime
+sys-kernel/dkms 2.8.4: Dynamic Kernel Module Support
 x11-apps/jstest-gtk 0.1.0-r1 9999: A joystick testing and configuration tool for Linux

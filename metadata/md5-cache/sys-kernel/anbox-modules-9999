@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst prerm unpack
+DEPEND=sys-kernel/dkms
+DESCRIPTION=Kernel modules necessary to run the Anbox Android container runtime
+EAPI=7
+HOMEPAGE=https://anbox.io/
+KEYWORDS=~amd64 ~arm64
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=sys-kernel/dkms
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=5f85fa901f3564c7ae96108d6fe7255c
