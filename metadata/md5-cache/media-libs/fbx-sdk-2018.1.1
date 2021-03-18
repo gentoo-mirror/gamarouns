@@ -1,11 +1,12 @@
 DEFINED_PHASES=install unpack
 DESCRIPTION=Platform and API toolkit to transfer existing content into the FBX format.
-EAPI=6
+EAPI=7
 HOMEPAGE=https://www.autodesk.com/products/fbx/overview
+INHERIT=multilib unpacker
 IUSE=debug doc samples
 KEYWORDS=~amd64 ~x86
 LICENSE=Autodesk-LSA
 SLOT=0
 SRC_URI=http://download.autodesk.com/us/fbx/2018/2018.1.1/fbx20181_1_fbxsdk_linux.tar.gz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b	versionator	d3fb3ba33acc3bbbdc4d7970227c100d
-_md5_=96217e27c16b46a6823e0c1faa1684a1
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b
+_md5_=6bec7af970f60d3a16f72924d04f2882

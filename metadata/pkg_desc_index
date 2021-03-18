@@ -2,11 +2,12 @@ app-benchmarks/luxmark 3.1 4.0_alpha1 9999: A GPL OpenCL Benchmark.
 app-benchmarks/luxmark-scenes 3.1_beta3 3.1 4.0_alpha0 4.0_alpha1: Scenes pack for luxmark.
 app-emulation/anbox 0_pre20201129 9999: Container-based approach to boot a full Android system
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
+dev-cpp/easy_profiler 2.1.0: Lightweight cross-platform profiler library for c++
+dev-cpp/fast-cpp-csv-parser 0_pre20210103 9999: This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 dev-cpp/json 3.9.1: JSON for modern C++
 dev-cpp/properties-cpp 0_pre20180409 9999: A very simple convenience library for handling properties and signals in C++11
 dev-cpp/sdbus-cpp 0.8.3: High-level C++ D-Bus library for Linux
 dev-cpp/simde 0.6.0: Implementations of SIMD instruction sets for systems which natively don't support them
-dev-libs/c-blosc 1.17.0: A blocking, shuffling and loss-less compression library that can be faster than 'memcpy()'.
 dev-libs/clew 0.10 9999: The OpenCL Extension Wrangler Library
 dev-libs/cuew 9999: This C++ project provides a portable binary archive to be used with boost::serialization.
 dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
