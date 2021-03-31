@@ -3,6 +3,7 @@ DEPEND=dev-lang/ruby dev-ruby/rubygems
 DESCRIPTION=Alternative to vendor specific OpenCL ICD loaders
 EAPI=6
 HOMEPAGE=http://forge.imag.fr/projects/ocl-icd/
+INHERIT=multilib
 KEYWORDS=amd64 x86
 LICENSE=BSD-2
 RDEPEND=app-eselect/eselect-opencl
