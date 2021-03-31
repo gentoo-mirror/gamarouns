@@ -1,0 +1,16 @@
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+DESCRIPTION=LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
+EAPI=7
+HOMEPAGE=http://www.luxcorerender.net
+INHERIT=cmake-utils flag-o-matic git-r3
+IUSE=debug opencl cuda shared
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+REQUIRED_USE=debug? ( shared )
+SLOT=0
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	cmake-utils	12008d68ebfd61f49a377c49f83558a8	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=cd988e9828092be88b16c68cc1738ccc
