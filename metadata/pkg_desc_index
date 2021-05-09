@@ -14,7 +14,6 @@ dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
 dev-libs/eos-portable-archive 5.1: This C++ project provides a portable binary archive to be used with boost::serialization.
 dev-libs/ocl-icd 2.2.12: Alternative to vendor specific OpenCL ICD loaders
 dev-libs/pocl 1.5 1.6 9999: PortableCL: opensource implementation of the OpenCL standard
-dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting system
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/bcd 1.1: Bayesian Collaborative Denoiser for Monte Carlo Rendering
 media-libs/embree 2.17.5 3.12.2 3.12.2-r1 9999: Embree ray tracing kernels by intel
@@ -30,7 +29,6 @@ net-im/qtox 1.14.1 1.15.0: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/tox-prpl 0.5.1: Tox plugin for Purple/Pidgin
 net-libs/tox 0.2.2: Encrypted P2P, messaging, and audio/video calling platform
 net-p2p/silentarmy 5: Free open source Zcash miner for Linux with multi-GPU and Stratum support
-sys-devel/icecream 1.0.1: icecc is a program for distributed compiling of C(++) code across several machines; based on distcc
 sys-firmware/rpi-eeprom 9999: Scripts and pre-compiled binaries to update Raspberry Pi4 bootloader EEPROM
 sys-kernel/anbox-modules 9999: Kernel modules necessary to run the Anbox Android container runtime
 sys-kernel/dkms 2.8.4: Dynamic Kernel Module Support
