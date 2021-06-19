@@ -2,6 +2,7 @@ app-benchmarks/luxmark 3.1 4.0_alpha1 9999: A GPL OpenCL Benchmark.
 app-benchmarks/luxmark-scenes 3.1_beta3 3.1 4.0_alpha0 4.0_alpha1: Scenes pack for luxmark.
 app-emulation/anbox 0_pre20201129 9999: Container-based approach to boot a full Android system
 app-eselect/eselect-opencl 1.1.0-r6: Utility to change the OpenCL implementation being used
+dev-cpp/cpu_features 9999: A cross-platform C library to retrieve CPU features (such as available instructions) at runtime.
 dev-cpp/easy_profiler 2.1.0: Lightweight cross-platform profiler library for c++
 dev-cpp/fast-cpp-csv-parser 0_pre20210103 9999: This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 dev-cpp/json 3.9.1: JSON for modern C++
@@ -13,11 +14,12 @@ dev-libs/cuew 9999: This C++ project provides a portable binary archive to be us
 dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
 dev-libs/eos-portable-archive 5.1: This C++ project provides a portable binary archive to be used with boost::serialization.
 dev-libs/ocl-icd 2.2.12: Alternative to vendor specific OpenCL ICD loaders
-dev-libs/pocl 1.5 1.6 9999: PortableCL: opensource implementation of the OpenCL standard
+dev-libs/pocl 1.5 1.6 1.7 9999: PortableCL: opensource implementation of the OpenCL standard
 dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting system
+dev-vcs/hg-git 0.10.1: push to and pull from a Git repository using Mercurial
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/bcd 1.1: Bayesian Collaborative Denoiser for Monte Carlo Rendering
-media-libs/embree 2.17.5 3.12.2 3.12.2-r1 9999: Embree ray tracing kernels by intel
+media-libs/embree 2.17.5 3.13.0 9999: Embree ray tracing kernels by intel
 media-libs/fbx-sdk 2018.1.1: Platform and API toolkit to transfer existing content into the FBX format.
 media-libs/glfw 3.3: The Portable OpenGL FrameWork
 media-libs/lut 9999: C++ 11 single required source file, that can be used to achieve color correction and color grading
