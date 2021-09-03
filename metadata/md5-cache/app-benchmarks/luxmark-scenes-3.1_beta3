@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 SLOT=3
 SRC_URI=https://bitbucket.org/luxrender/luxmark/downloads/scenes-v3.1beta3.zip
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	estack	055c42df72f76a4f45ec92b35e83cd56	versionator	d3fb3ba33acc3bbbdc4d7970227c100d
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	estack	055c42df72f76a4f45ec92b35e83cd56	versionator	d3fb3ba33acc3bbbdc4d7970227c100d
 _md5_=f73f06f2c99c773bbbcc81a336c42d62
