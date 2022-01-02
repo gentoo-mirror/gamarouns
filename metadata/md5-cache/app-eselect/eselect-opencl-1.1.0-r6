@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=>=app-admin/eselect-1.2.4
 SLOT=0
 SRC_URI=http://packages.gentooexperimental.org/opencl-cpp-headers.tar https://github.com/KhronosGroup/OpenCL-Headers/archive/opencl10.zip https://github.com/KhronosGroup/OpenCL-Headers/archive/opencl11.zip https://github.com/KhronosGroup/OpenCL-Headers/archive/opencl12.zip https://github.com/KhronosGroup/OpenCL-Headers/archive/opencl20.zip https://github.com/KhronosGroup/OpenCL-Headers/archive/opencl21.zip
-_eclasses_=multilib	8a0248f83ae77f945d376ff4a7953257	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8
+_eclasses_=multilib	de4beb52bfa93c4c5d96792a6b5e1784	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8
 _md5_=80441d9e6dbd4cd08c7006c27c61b318
