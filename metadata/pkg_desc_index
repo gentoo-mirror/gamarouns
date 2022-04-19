@@ -14,7 +14,6 @@ dev-libs/cuew 9999: This C++ project provides a portable binary archive to be us
 dev-libs/easy_profiler 2.0.1: Lightweight profiler library for c++
 dev-libs/eos-portable-archive 5.1: This C++ project provides a portable binary archive to be used with boost::serialization.
 dev-libs/ocl-icd 2.2.12: Alternative to vendor specific OpenCL ICD loaders
-dev-libs/pocl 1.5 1.7 9999: PortableCL: opensource implementation of the OpenCL standard
 dev-util/google-breakpad 9999-r3: An open-source multi-platform crash reporting system
 dev-vcs/hg-git 0.10.1: push to and pull from a Git repository using Mercurial
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
