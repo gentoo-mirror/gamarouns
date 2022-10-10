@@ -1,6 +1,6 @@
 DEFINED_PHASES=install unpack
 DESCRIPTION=Scenes pack for luxmark.
-EAPI=7
+EAPI=8
 HOMEPAGE=http://www.luxmark.info
 INHERIT=unpacker
 KEYWORDS=~amd64 ~x86
@@ -8,4 +8,4 @@ LICENSE=GPL-3
 SLOT=4
 SRC_URI=https://github.com/LuxCoreRender/LuxMark/releases/download/luxmark_v4.0alpha1/scenes.tgz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	unpacker	bc57272a0491765c71d973c8cfd35063
-_md5_=34558ec4d8f99e0312501281d58c485b
+_md5_=192c13ffdf9d4735016d7df7d76a5b3c
