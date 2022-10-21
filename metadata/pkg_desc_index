@@ -23,6 +23,7 @@ dev-vcs/hg-git 0.10.1: push to and pull from a Git repository using Mercurial
 media-libs/anttweakbar 1.16-r1: A library that adds an easy GUI into OpenGL applications to interactively tweak them on-screen
 media-libs/bcd 1.1: Bayesian Collaborative Denoiser for Monte Carlo Rendering
 media-libs/fbx-sdk 2018.1.1: Platform and API toolkit to transfer existing content into the FBX format.
+media-libs/imgui 1.88: Bloat-free graphical user interface library for C++
 media-libs/lut 9999: C++ 11 single required source file, that can be used to achieve color correction and color grading
 media-libs/luxcorerender 2.6 9999: LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
 media-libs/luxrays 1.6: LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
