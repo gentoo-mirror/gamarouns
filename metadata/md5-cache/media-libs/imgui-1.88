@@ -5,7 +5,7 @@ DESCRIPTION=Bloat-free graphical user interface library for C++
 EAPI=8
 HOMEPAGE=https://github.com/ocornut/imgui https://github.com/cimgui/cimgui
 INHERIT=cmake
-IUSE=allegro bindings examples freetype glfw glut opengl sdl vulkan
+IUSE=allegro bindings examples freetype glfw glut opengl sdl vulkan shared
 KEYWORDS=~amd64
 LICENSE=MIT
 RDEPEND=dev-libs/stb:= allegro? ( media-libs/allegro:5 ) freetype? ( media-libs/freetype ) glfw? ( media-libs/glfw:0 ) glut? ( media-libs/freeglut ) opengl? ( virtual/opengl ) sdl? ( media-libs/libsdl2 ) vulkan? ( media-libs/vulkan-loader )
@@ -13,4 +13,4 @@ REQUIRED_USE=|| ( allegro glfw glut sdl ) || ( allegro opengl vulkan )
 SLOT=0/1.88
 SRC_URI=https://github.com/ocornut/imgui/archive/v1.88.tar.gz -> imgui-1.88.gh.tar.gz https://github.com/cimgui/cimgui/archive/refs/tags/1.88.tar.gz -> cimgui-1.88.gh.tar.gz
 _eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	29a755b1291d64133634d80b0328f153	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	58ec4e54962bf45d065fb95030701514	xdg-utils	ac0e315a3688929e34ac75b139e7349a	cmake	44afbf15c35884f7c840470f1cf05d0d
-_md5_=cd6ab9965e8ea8fcb4fbbbd364c59c2f
+_md5_=700c269c52f76e04378a5404b4fc3c60
