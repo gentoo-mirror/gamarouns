@@ -1,6 +1,6 @@
 BDEPEND=>=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+DEPEND=dev-libs/boost:= media-gfx/openvdb dev-cpp/json dev-cpp/robin-hood-hashing dev-libs/c-blosc dev-libs/clew dev-libs/cuew dev-libs/spdlog media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
 DESCRIPTION=LuxCoreRender is a physically correct, unbiased rendering engine. It is built on physically based equations that model the transportation of light.
 EAPI=8
 HOMEPAGE=http://www.luxcorerender.net
@@ -8,9 +8,9 @@ INHERIT=cmake flag-o-matic
 IUSE=debug opencl cuda shared
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=>=dev-libs/boost-1.63:= media-gfx/openvdb dev-cpp/json dev-libs/c-blosc dev-libs/clew dev-libs/cuew media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
+RDEPEND=dev-libs/boost:= media-gfx/openvdb dev-cpp/json dev-cpp/robin-hood-hashing dev-libs/c-blosc dev-libs/clew dev-libs/cuew dev-libs/spdlog media-libs/bcd media-libs/embree media-libs/lut media-libs/oidn media-libs/opencv[cuda?] media-libs/openimageio media-libs/opensubdiv virtual/opengl opencl? ( virtual/opencl )
 REQUIRED_USE=debug? ( shared )
 SLOT=0
 SRC_URI=https://codeload.github.com/LuxCoreRender/LuxCore/tar.gz/luxcorerender_v2.6 -> luxcorerender-2.6.tar.gz
 _eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	29a755b1291d64133634d80b0328f153	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	58ec4e54962bf45d065fb95030701514	xdg-utils	ac0e315a3688929e34ac75b139e7349a	cmake	44afbf15c35884f7c840470f1cf05d0d
-_md5_=d35d73669040f7f7c196293814236df0
+_md5_=6c1003d186f42e54b9f57764bffb4634
