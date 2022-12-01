@@ -34,6 +34,7 @@ media-libs/openvr 1.7.15 1.16.8: API and runtime for accessing VR hardware from 
 media-libs/vlc-qt 1.1.1 9999: VLC-Qt is a free library used to connect Qt and libVLC libraries
 media-sound/spotify-qt 3.9: Lightweight Spotify client using Qt
 net-im/tdesktop 4.2.4: Official Telegram messenger desktop client
+net-libs/libjuice 1.0.6: UDP Interactive Connectivity Establishment
 net-p2p/silentarmy 5: Free open source Zcash miner for Linux with multi-GPU and Stratum support
 sys-firmware/rpi-eeprom 9999: Scripts and pre-compiled binaries to update Raspberry Pi4 bootloader EEPROM
 sys-kernel/anbox-modules 9999: Kernel modules necessary to run the Anbox Android container runtime
